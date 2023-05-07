@@ -1,28 +1,18 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank"></a>
-</h2>
+<div align="center">
+
+
+# Portfolio Website
+# Deployed Link:- https://nitesh-portfolio-r.netlify.app/
+
+</div>
+
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
 
-<center>
-
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-
-</center>
-
-
 ## Built With
-
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank"></a>.
-<br/>
-
-This project was built using these technologies.
-
 - React.js
 - CSS3
 - VsCode
@@ -34,3 +24,13 @@ This project was built using these technologies.
 **🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
 **📱 Fully Responsive**
+
+#### `npm start`
+
+It runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+### Show your support
+
+Give a ⭐ if you like this website!
